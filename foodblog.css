@@ -1,0 +1,21 @@
+
+body {
+	background-color: #F0CB66;
+	font-family: arial;
+	column-count: 2;
+}
+
+h1 {
+	font-size: 
+}
+
+.name {
+	font-size: 100px;
+	margin-bottom: -30px;
+	margin-top: -30px;
+
+}
+
+.name: hover {
+ background-color: red;
+}
